@@ -1,0 +1,198 @@
+[
+    {
+        "id": "124e13b9-2d54-4b2f-a74d-a77b362d6ead",
+       
+        "name": "Dumbble",
+       
+        "price": 420,
+        "time": 20,
+        "age": "20-23",
+        "ratingsCount": 3725,
+        "img": "https://img.freepik.com/free-photo/young-fitness-man-studio_7502-5008.jpg",
+        "shipping": 10,
+        "quantity": 0
+    },
+    {
+      
+        "name": "Rowers",
+        
+        "price": 196,
+        "time": 25,
+        "age": "34-40",
+        "ratingsCount": 4355,
+        "img": "https://qph.cf2.quoracdn.net/main-qimg-1309a985b2bc650441a49ba5b257b8ba-lq",
+        "shipping": 14,
+        "quantity": 0
+    },
+    {
+        "id": "307f166f-1d04-4573-bc37-2f461ea9d4f7",
+        
+        "name": "Dumbble",
+        
+        "price": 245,
+        "time": 30,
+        "age": "30-35",
+        "ratingsCount": 3972,
+        "img": "https://e0.pxfuel.com/wallpapers/838/564/desktop-wallpaper-girl-workout-fitness-gym-for-thumbnail.jpg",
+        "shipping": 1,
+        "quantity": 0
+    },
+    {
+        "id": "4bf9798f-63bc-4a83-b0c6-6a3b816fe922",
+       
+        "name": "Leg Curl machine",
+       
+        "price": 229,
+        "time": 15,
+        "age": "26-30",
+        "ratingsCount": 1764,
+        "img": "https://www.muscleandfitness.com/wp-content/uploads/2017/12/man-deadlift-1.jpg?quality=86&strip=all",
+        "shipping": 32,
+        "quantity": 0
+    },
+    {
+        "id": "9496d72b-04ec-41f8-9bc3-0a7c9697be8e",
+      
+        "name": "Chest Press machine",
+      
+        "price": 287,
+        "time": 10,
+        "age": "24-27",
+        "ratingsCount": 799,
+        "img": "https://www.bosshunting.com.au/wp-content/uploads/2020/03/586d0b3844bbe.jpg",
+        "shipping": 49,
+        "quantity": 0
+    },
+    {
+        "id": "6e5593d3-557b-43cf-8dab-a5140faedfb0",
+        
+        "name": "Dumbble",
+       
+        "price": 138,
+        "time": 10,
+        "age": "23-26",
+        "ratingsCount": 4372,
+        "img": "https://cmkt-image-prd.freetls.fastly.net/0.1.0/ps/2417273/1360/906/m1/fpnw/wm1/ccyayoixfori8adw7ranvlu0jpvszobyxmbk8d9rbjybnwnhvkbvkkky3buiryzm-.jpg?1489680846&s=45664518d8bc1ee3a4fdf3d12da7fe51",
+        "shipping": 19,
+        "quantity": 0
+    },
+    {
+        "id": "9c0c13c2-54e4-4001-809b-afbd9d84037d",
+       
+        "name": "Barbell",
+        
+        "price": 226,
+        "time": 20,
+        "age": "19-21",
+        "ratingsCount": 2870,
+        "img": "https://www.greatestphysiques.com/wp-content/uploads/2017/05/Cedric-McMillan-back.jpg",
+        "shipping": 15,
+        "quantity": 0
+    },
+    {
+  
+        "name": "Resistance Bands",
+        
+        "price": 319,
+        "time": 25,
+        "age": "26-30",
+        "ratingsCount": 1360,
+        "img": "https://cdn.muscleandstrength.com/sites/default/files/field/feature-wide-image/workout/dumbbell_bodyweight_workout_-_1000x500.jpg",
+        "shipping": 50,
+        "quantity": 0
+    },
+    {
+        "id": "1564a06b-692f-4f2e-8413-9c8a1cc2da77",
+       
+        "name": "Rowers",
+        
+        "price": 260,
+        "time": 15,
+        "age": "22-25",
+        "ratingsCount": 1976,
+        "img": "https://img.freepik.com/premium-photo/hardy-man-doing-exercise-with-heavy-bar_136403-4511.jpg?size=626&ext=jpg&ga=GA1.1.2116175301.1701302400&semt=ais",
+        "shipping": 46,
+        "quantity": 0
+    },
+    {
+        "id": "ac44095f-230e-4502-8816-dea3eaae8320",
+        
+        "name": "Bikes",
+       
+        "price": 437,
+        "time": 10,
+        "age": "20-22",
+        "ratingsCount": 565,
+        "img": "https://www.healthkart.com/connect/wp-content/uploads/2021/04/banner-16.jpg",
+        "shipping": 36,
+        "quantity": 0
+    },
+    {
+        "id": "d0803f97-966f-4296-ad31-a7f70fc86fab",
+    
+        "name": "Kettlebells",
+      
+        "price": 146,
+        "time": 20,
+        "age": "25-28",
+        "ratingsCount": 3702,
+        "img": "https://i.ytimg.com/vi/ruFnxq0JpTE/maxresdefault.jpg?sqp=-oaymwEmCIAKENAF8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGGYgZihmMA8=&rs=AOn4CLAiHN7R6FOeOWNPjMbLytKIqTprjA",
+        "shipping": 29,
+        "quantity": 0
+    },
+    {
+        "id": "8a5b4a9c-76ea-4fbb-9c70-9548de4eab01",
+       
+        "name": "Dumbble",
+  
+        "price": 109,
+        "time": 25,
+        "age": "20-24",
+        "ratingsCount": 1688,
+        "img": "https://img.freepik.com/free-photo/close-up-couple-doing-crossfit-workout_23-2149080432.jpg?w=2000",
+        "shipping": 48,
+        "quantity": 0
+    },
+    {
+        "id": "b357e19b-4dd9-4fc7-b5c0-9ed5255464ba",
+       
+        "name": "Treadmills",
+       
+        "price": 63,
+        "time": 15,
+        "age": "27-30",
+        "ratingsCount": 50,
+        "img": "https://cdn.thewirecutter.com/wp-content/media/2023/06/treadmill-2048px-7025-2x1-1.jpg?auto=webp&quality=75&crop=2:1&width=1024",
+        "shipping": 20,
+        "quantity": 0
+    },
+    {
+        "id": "e4220958-06d2-4d50-96fa-0163a563f43d",
+       
+        "name": "Kettlebells",
+    
+        "price": 148,
+        "time": 25,
+        "age": "25-30",
+        "ratingsCount": 4483,
+        "img": "https://barbend.com/wp-content/uploads/2022/08/Shutterstock_1716722584-1.jpg",
+        "shipping": 8,
+        "quantity": 0
+    },
+    {
+        "id": "ae69f0e4-559c-4b24-8032-80b63f9b5073",
+        
+        "name": "Dumbble",
+       
+        "price": 122,
+        "time": 43,
+        "age": "23-26",
+        "ratingsCount": 1239,
+        "img": "https://i0.wp.com/www.strengthlog.com/wp-content/uploads/2022/05/bodybuilding-exercises.jpg?fit=1000%2C667&ssl=1",
+        "shipping": 27,
+        "quantity": 0
+    }
+    
+    
+
+]

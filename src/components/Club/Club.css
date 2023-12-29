@@ -1,0 +1,14 @@
+.mother-container{
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+}
+.patrent-container{
+    background-color: rgb(238, 235, 234);
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 35px;
+    padding: 50px;
+}
+.sub-container{
+    background-color: rgb(238, 235, 234);
+}

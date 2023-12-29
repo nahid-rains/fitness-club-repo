@@ -1,0 +1,27 @@
+.header-sec{
+    background-color:rgb(238, 235, 234);
+    height: 70px;
+    display: grid;
+    grid-template-columns: 4fr 1.08fr;
+    margin-top: 70px;
+  
+   
+    text-align: center; 
+}
+.my-sec{
+    display: flex;
+    align-items: center;
+    padding-left: 200px;
+}
+.can-pass{
+    height: 70px;
+   
+    background-color:  rgb(238, 235, 234);
+}
+.title-name{
+    color: rgb(33, 35, 35);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: blod;
+     margin-left: 20px;
+     
+}

@@ -1,0 +1,36 @@
+.break-sec{
+    background-color: aliceblue;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 25px;
+}
+.btn-section{
+   
+    display: flex;
+}
+.btn-group{
+    height: 50px;
+    width: 50px;
+    color: white;
+    font-size: 18px;
+    margin-left: 4px;
+    border: none;
+    border-radius:50%;
+    background-color:rgb(151, 157, 162);
+}
+.add-section{
+    background-color:aliceblue;
+}
+.heading-design{
+    text-align: center;
+    font-weight: bold;
+
+}
+.para-style{
+    text-align: center;
+    margin-top: 18px;
+    height: 30px;
+    width: 100%;
+   
+    background-color:rgb(158, 165, 171);
+}
