@@ -9,14 +9,20 @@
     display: flex;
 }
 .btn-group{
-    height: 50px;
-    width: 50px;
-    color: white;
+    height: 45px;
+    width: 45px;
+    color: rgb(26, 25, 25);
     font-size: 18px;
     margin-left: 4px;
     border: none;
     border-radius:50%;
     background-color:rgb(151, 157, 162);
+}
+.btn-group:hover{
+    color: rgb(233, 227, 227);
+    background-color :rgb(242, 17, 137);
+    transform:scale(1.1);
+    cursor: pointer;
 }
 .add-section{
     background-color:aliceblue;

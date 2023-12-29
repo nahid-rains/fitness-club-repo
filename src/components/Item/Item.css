@@ -37,10 +37,10 @@
     border-radius: 10px;
     position: absolute;
     bottom: 0;
-    background-color: rgb(205, 13, 176);
+    background-color: rgb(20, 238, 133);
     cursor: pointer;
 }
 .btn-add button:hover{
-    background-color: brown;
+    background-color: rgb(242, 17, 137);
     color:white;
 }

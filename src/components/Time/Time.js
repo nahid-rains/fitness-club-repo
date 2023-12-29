@@ -7,15 +7,7 @@ const Time = (props) => {
     totalTime.forEach(element => {
         sum = sum + element
     });
-    // console.log(sum);
-    // let sumOfTime =  totalTime.reduce((x,y)=>x+y)
-    // console.log(sumOfTime)
-    // let defultTime = 0
-    // for(let myTime of props.time){
-        
-    //     const singleTime = myTime + defultTime+ props.item.time 
-    //     console.log(singleTime)
-    // }
+   
     return (
         <div>
             <div className="break-sec">
