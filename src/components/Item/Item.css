@@ -2,10 +2,15 @@
     
     height: 380px;
     background-color: rgb(252, 246, 249);
-    box-shadow: 7px 6px 5px 2px;
-            inset: -7px 6px 5px 2px;    
     border-radius: 10px;
     position: relative;
+}
+.item:hover{
+    /* box-shadow: 7px 6px 5px 2px;
+            inset: -7px 6px 5px 2px;      */
+            
+            transform: scale(1.07);
+            transition: 0.5s;
 }
 .item img{
     height: 200px;
@@ -28,6 +33,7 @@
 }
 .info-box{
     padding-left: 15px;
+    background-image: linear-gradient(lightpink,hotpink, lightgreen);
 }
 .btn-add button{
     width: 100%;
@@ -37,10 +43,10 @@
     border-radius: 10px;
     position: absolute;
     bottom: 0;
-    background-color: rgb(20, 238, 133);
+    background-color: rgb(30, 236, 82);
     cursor: pointer;
 }
 .btn-add button:hover{
-    background-color: rgb(242, 17, 137);
+    background-color: rgb(239, 13, 134);
     color:white;
 }

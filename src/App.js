@@ -1,5 +1,3 @@
-
-
 import Club from './components/Club/Club';
 import Header from './components/Header/Header';
 

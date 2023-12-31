@@ -20,7 +20,7 @@ const Club = () => {
     return (
         <div className='mother-container'>
             <div className="patrent-container">
-              {/* <h1>welcome:{items.length}</h1> */}
+             
               {
                 items.map(item => <Item 
                   key={item.id}

@@ -11,7 +11,8 @@ const Header = () => {
         <h1 className='title-name'>Fitness-Club</h1>
       </div>
       <div className='can-pass'>
-<h1>welcome</h1>
+            <h1>welcome</h1>
+
       </div>
     </div>
       
