@@ -1,5 +1,6 @@
 
-import { myCount } from '../../utilites/utilites';
+import { useState } from 'react';
+
 import './Time.css'
 const Time = (props) => {
     // console.log(props.time)
@@ -9,11 +10,12 @@ const Time = (props) => {
     totalTime.forEach(element => {
         sum = sum + element
     });
-    // const [showOn ,setShowOn] = useState([])
+    const [show,setShow] = useState([])
+    
     const clickHandeler = (id) =>{
-        let show = id;
+        let showon = id;
         // console.log(show)
-        myCount(show)
+       setShow(showon)
         
  
 
@@ -35,7 +37,7 @@ const Time = (props) => {
             <div className="add-section">
             <h3 className='heading-design'>Exercise Details:{totalTime.length}</h3> 
             <p className='para-style'>Exercise Time:{sum} minutes</p> 
-            <p className='para-style'>Break Time:{20}</p> 
+            <p className='para-style'>Break Time:{show} seconds</p> 
             </div>
         </div>
     );
