@@ -1,6 +1,6 @@
 .item{
     
-    height: 380px;
+    height: 340px;
     background-color: rgb(252, 246, 249);
     border-radius: 10px;
     position: relative;
@@ -13,7 +13,7 @@
             transition: 0.5s;
 }
 .item img{
-    height: 200px;
+    height: 150px;
     width: 100%;
     border-radius: 10px;
     
@@ -33,7 +33,7 @@
 }
 .info-box{
     padding-left: 15px;
-    background-image: linear-gradient(lightpink,hotpink, lightgreen);
+    
 }
 .btn-add button{
     width: 100%;

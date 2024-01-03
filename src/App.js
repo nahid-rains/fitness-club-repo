@@ -1,11 +1,13 @@
 import Club from './components/Club/Club';
 import Header from './components/Header/Header';
+import Test from './components/Test/Test';
 
 function App() {
   return (
     <div className="App">
-      <Header></Header>
-      <Club></Club>
+      <Header/>
+      <Club/>
+      <Test/>
     </div>
   );
 }
